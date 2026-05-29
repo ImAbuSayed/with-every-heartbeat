@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/with-every-heartbeat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for With Every Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/with-every-heartbeat/) |
+| **Get License** | [Music Rights & Licensing for With Every Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/with-every-heartbeat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9f9847a6988dd88a5150cddbbb695d0d75cea3f3202288e27e86a25987b23a88` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

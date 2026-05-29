@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - With Every Heartbeat
+
+This log tracks the cryptographic history and versioning for the song **With Every Heartbeat** (with-every-heartbeat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T16:23:16.036537 | `v1` | `9f9847a6988dd88a5150cddbbb695d0d75cea3f3202288e27e86a25987b23a88` | `96778d518ceb1c267b4beb258c6a2c36eb9143dbf88055ce54239f67e56c5e80` | `2026-05-29_with-every-heartbeat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
