@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/with-every-heartbeat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for With Every Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/with-every-heartbeat/) |
+| **Get License** | [Secure Licensing Rights for With Every Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/with-every-heartbeat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Come a little closer to the firelight
+> Let the shadows dance across your face
+> I just wanna hold you through the midnight
+> And lose myself inside this quiet space
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
